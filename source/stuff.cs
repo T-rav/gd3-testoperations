@@ -4,10 +4,10 @@ namespace Test.Namespace
 {
     public class MyClass
     {
-			private int _theField;
+			private int _field;
 			
 			public MyClass(){
-				_theField = 2;
+				_field = 3;
 			}
 	}
 }
